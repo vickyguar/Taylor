@@ -27,7 +27,7 @@ Algunas animaciones son:
 > <img src="figures/exp.gif" alt="exp" width="50%" />
 
 
-> $f(z) = frac{1}{1-z}$, el desarrollo centrado en $z_0=0$, se realiza usando la serie geométrica, converge para el disco $|z|<1$
+> $f(z) = \frac{1}{1-z}$, el desarrollo centrado en $z_0=0$, se realiza usando la serie geométrica, converge para el disco $|z|<1$
 > 
 > <img src="figures/geom.gif" alt="geom" width="50%" />
 
