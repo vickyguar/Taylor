@@ -18,7 +18,7 @@ Es decir, la serie $(1)$ converge a $f(z)$ cuando $z$ se encuentra en el disco a
 
 ### Sobre este repositorio
 
-Este repositorio contiene visualizaciones interactivas de series de Taylor utilizando técnicas de *domain coloring* que use para mostrarles a los estudiantes de Cálculo III (Cálculo complejo) para que comprendan mejor cómo convergen las aproximaciones en serie de potencias. Tener en cuenta que el dominio coloreado solo me habla del argumento y no del módulo.
+Este repositorio contiene visualizaciones de tipo GIF de series de Taylor utilizando técnicas de *domain coloring* que use para mostrarles a los estudiantes de Cálculo III (Cálculo complejo) para que comprendan mejor cómo convergen las aproximaciones en serie de potencias. Tener en cuenta que el dominio coloreado solo me habla del argumento y no del módulo.
 
 Algunas animaciones son:
 
